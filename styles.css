@@ -23,7 +23,7 @@
   background-color: white;
   padding-top: 3em;
   padding-left: 5em;
-  padding-right: 5em;
+  padding-right: 6em;
   padding-bottom: 6em;
   border-radius: 51% 49% 66% 34% / 39% 54% 46% 61% ;
 }
@@ -176,6 +176,7 @@ p {
   color: #39393b;
   font-size: 1.5em;
   font-weight: 300;
+  margin-bottom: 1em;
 }
 
 #logo {
